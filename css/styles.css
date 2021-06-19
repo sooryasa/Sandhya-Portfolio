@@ -1,0 +1,41 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFF;
+}
+
+ul {
+    display: flex;
+    justify-content:
+}
+.hero {
+    background-color: #3D4750;
+    height: 445px;
+    width: 1440px;
+}
+
+.rectangle {
+    height: 549px;
+    width: 1126px;
+    background-color: #6A8D92
+
+}
+
+.rectangle2 {
+    height: 419px;
+    width: 562px;
+    background-color: #3D4750
+}
+
+.rectangle3 {
+    height: 419px;
+    width: 562px;
+    background-color: #7a8b99;  
+}
+
+
+.footer {
+    height: 200px;
+    width:  1440px;
+    background-color:  #6A8D92;
+}
