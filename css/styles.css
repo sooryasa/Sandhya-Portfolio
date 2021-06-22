@@ -28,8 +28,7 @@ ul {
 .rectangle {
     height: 549px;
     width: 1126px;
-    background-color: #6A8D92
-    j
+    background-color: #6A8D92;
 
 }
 
@@ -75,7 +74,6 @@ ul {
 }
 
 .p {
-    font: ;
     font-size:  24px;
     color: #323638;
 }
@@ -88,9 +86,6 @@ ul {
 
 }
 
-.nav-item {
-    padding: 20px;
-}
 
 .bottom {
     display: inline-flex;
